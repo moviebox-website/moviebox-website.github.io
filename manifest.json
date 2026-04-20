@@ -1,0 +1,30 @@
+{
+  "name": "MovieBox - Free Movies Streaming",
+  "short_name": "MovieBox",
+  "description": "MovieBox is a websites movies, ad-free streaming site with thousands of HD movies available on desktop and app. Watch movies online anytime for free.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
